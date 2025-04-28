@@ -1,3 +1,6 @@
+
+[Mushroom Classification and Prediction](https://mushroom-prediction-st.streamlit.app/)
+
 Attribute Information: (classes: edible=e, poisonous=p)
 
 cap-shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s
